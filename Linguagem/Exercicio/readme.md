@@ -18,8 +18,8 @@ Antes de rodar o projeto, certifique-se de ter instalado o Python 3. O projeto r
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-carros.git
-   cd projeto-carros
+   gh repo clone digomes87/UFPR
+   cd UFPR/Linguagem/Exercicio
    ```
 
 2. Crie um ambiente virtual (opcional, recomendado):
@@ -47,10 +47,12 @@ python main.py
 Isso irá carregar os dados, gerar visualizações e treinar os modelos de Machine Learning.
 
 ## Saída do Projeto
+iPara dúvidas ou sugestões, entddre em contato via email ou GitHub Issues.
+![Descrição](resultado-terminal.png)
+
+# No diretório irá encontrar:
 - Gráficos salvos como arquivos `.png`.
 - Avaliação dos modelos impressa no terminal.
 - Melhor modelo selecionado com base em métricas como MAE, MSE e R².
 
-## Contato
-Para dúvidas ou sugestões, entre em contato via email ou GitHub Issues.
 
